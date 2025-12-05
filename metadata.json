@@ -1,0 +1,7 @@
+{
+  "name": " AI Plant Doctor",
+  "description": "A complete plant care system powered by Gemini Vision AI to detect diseases and provide treatment advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
