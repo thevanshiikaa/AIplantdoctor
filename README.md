@@ -6,7 +6,7 @@
 
 
 
-View your app in AI Studio:https://ai.studio/apps/drive/1B4mvSUhWRxhW614eSGhM_pgS7jc8z2tZ?fullscreenApplet=true
+View my app in AI Studio:[https://ai.studio/apps/drive/1B4mvSUhWRxhW614eSGhM_pgS7jc8z2tZ?fullscreenApplet=true](https://ai.studio/apps/drive/1IJmlUym3uQzi1Bh1a_HAubcWldq5nns6?fullscreenApplet=true)
 
 ## Run Locally
 
